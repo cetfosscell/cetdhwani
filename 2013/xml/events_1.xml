@@ -1,0 +1,1401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<events>
+<cat>Robocet
+<event>1
+<name>Prince of Gotham</name>
+<desc>ANYBODY CAN BE A HERO...ANYBODY CAN BE BATMAN.;nl
+
+Gotham city faces a new threat when Bane threatens to destroy Gotham city. The deadliest weapon that mankind has ever seen has been stolen. If it is not retrieved then city will face Apocalypse. The FBI and CIA are hunting ghosts. What will become of the city? Will the masked vigilant rise again? Can he capture the rogues and bring back peace to city? ;nl
+
+City needs Batman to defeat Bane and deny him from fulfilling his devious plan. Built the most exquisite BATMOBILE to accomplish this and claim your rightful place as the true saviour of Gotham. ;nl
+</desc>
+<format> To build a manual robot that can transport an object from one place of the arena to other, by picking it. ;nl
+;nl
+Description ;nl
+The object of the game is to pass through the obstacles take the fusion bomb placed in a vault and reach the finish line in minimum time.
+Each team has to make a manual robot capable of picking and placing cubical object. The track will contain obstacles like hump, ramp, step, sand, seesaw etc. The arena is divided into levels. The difficulty increases with each level. There are gates in between the levels. There are multiple keys (object) placed in road sides. The gate will open only if the correct key is inserted. In the final level there is a vault containing the bomb. Open the vault using the key. Once the bomb is taken the alarm will ring and gates start to close. Run fast before the gate closes and reach the fusion chamber to diffuse the bomb. Alfred is poisoned by Bane and is locked up near the vault. He will die if not taken to hospital soon. Batman can choose whether or not to save him. If he tries to save him the gates will close faster. But if he gets him out, bonus point will be given.;nl
+Time bonus will be given for saving the children whom Bane is using as mercenaries.
+
+ ;nl
+;nl
+Arena description:;nl
+•	Width of track will be above 40 cm;nl
+•	Step size (ascending)	height   -  1cm maximum;nl
+  	   	  (descending)  height   -  2cm maximum;nl
+•	Diameter of hump 		 -  2cm maximum;nl
+•	Angle of ramp                    -   20 degree maximum;nl
+•	Seesaw;nl
+		  Angle                  -  20 degree maximum;nl
+		  Height at maximum point-  10 cm;nl
+               
+;nl;nl
+Object description;nl
+•	Cube of side 4 cm. ;nl ;nl
+
+Supply voltage of 230 V will be provided. 
+ ;nl ;nl
+
+Sample track ;a; ;hrf;http://cetdrishti.com/pdf/princi_track.jpg;/hrf;  Here ;/a;
+
+</format><ps>disable</ps>
+<rules>
+•	Robots should be remotely controlled which can be either wired or wireless (no internal controlling). ;nl
+•	For wired remote control the wires should be bundled and should remain stack. ;nl
+•	Bot must fit into a cube of size 30cm x 30cm x 30cm. ;nl
+•	Team must consist of minimum two members. Maximum of 4. ;nl
+•	Each team can have maximum 2 trials. ;nl
+•	The better of the two trials will be taken for judging. ;nl
+•	The team will lose a trial if the bot malfunctions during that trial. ;nl 
+;nlRules during trials: ;nl
+•	Only one person is allowed to control the bot. ;nl
+•	Objects should be taken one at a time. ;nl 
+•	It is s not allowed to drag or pull or push the objects. ;nl
+•	If the object falls from the hold of the robot then you should start from previous checkpoint. ;nl 
+•	If the robot become immobilize the operator may ask the judge to return the robot to the previous checkpoint. ;nl
+•	Place the key to open gate. Jumping over the gate is not allowed. ;nl
+•	Team Members are not allowed to make contact with any object placed on arena and the robot during a match without the permission of judge. ;nl 
+•	Members are not allowed to step over/touch the arena. Damaging of the arena will lead to the disqualification. ;nl 
+•	Any addition or correction to this rule book will be updated in the site. ;nl
+•	Decision of judge will be final. ;nl
+</rules>
+<prize>First prize Rs:8000/- ;nl Second prize Rs:4000/-</prize>
+<contact>
+Tony Mathew 9400835767;nl
+Merlin Mon Mathew 9497322991
+</contact>
+</event>
+
+<event>2
+<name>FACE PAINTING</name>
+<desc>Change one face. Change everything.;nl
+That's the brushstroke effect.;nl
+Out of canvas? Dying to paint? Look around! Look at all friendly faces. Wipe out your buddy's expression,
+sketch him a new one and make him worthy of the Louvre. Michelangelo, are you listening?
+• Teams of 2; the painter and the painted.;nl
+• Topic will be given on the spot.;nl
+• The participants should explain the concept to the jury.;nl
+• Participants should bring their own set of poster colours.;nl
+• The duration of the event will be 2 hrs.;nl
+• Points : 5,3,1
+;nl</desc>
+<format> </format><ps>disable</ps>
+<rules></rules>
+<prize>Will be updated soon</prize>
+<contact>Will be updated soon</contact>
+</event>
+
+<event>3
+<name>Traze&amp; Maze</name>
+<desc>Out in Istanbul, Agent 007 is held captive and is in danger. He activates his Aston Martin DB5 for his rescue with his all-purpose watch. Now the Bond car needs to follow the undersea rail tunnel of Istanbul which are in construction and are secured by heavy metal gates. The Aston should crack these encrypted gates.;nl
+The tunnel opens to Balat district slum, crowded by Istanbul's working class. The signal from 007's watch triangulates from a warehouse in the middle of slum. The Bond car needs to pass through the streets avoiding obstacles so as to reach the warehouse as soon as possible. Prepare your Aston Martin autonomous bot to full throttle, 007' s life is at your stake..</desc>
+<format>Problem Statement and Other details  ;a; ;hrf;http://cetdrishti.com/pdf/TRAZE.pdf;/hrf;  Here ;/a;</format><ps>disable</ps>
+<rules>Problem Statement and Other details  ;a; ;hrf;http://cetdrishti.com/pdf/TRAZE.pdf;/hrf;  Here ;/a;</rules>
+<prize>Will be updated soon</prize>
+<contact>Anoop 9496334311;nl
+Venkiteshwaran Raj 8547104763;nl
+Praveen Shekhar 7736899043 </contact>
+</event>
+
+<event>4
+<name>Bots from scratch 2012</name>
+<desc>Some fear 2012 will mark the end of the world. Others are certain that one day this civilization will come to an end. Ever wondered how it feels like to begin from scratch. If you are still burning your thoughts, come on here, we have a place for you when it reaches robotics. ROBOCET presents &quot;BOTS FROM SCRATCH 2012&quot;, an event aimed at testing your technical as well as managerial skills where you will be required to build a bot from scratch to tackle the problem statement which will given at the start of the event.</desc>
+<format>The event will have a preliminary round from which 5 teams will be chosen for the finals.;nl;nl
+The preliminary round will be a written test meant to test your knowledge in basics of robotics (basic mechanical &amp; electrical/electronics).;nl
+Each team will be given a particular amount of point/cash using which they could buy electric/electronic component(s) of their choice from the stalls already set up.;nl;nl
+The choice of right components as well as assembling skills will be the key to success in this event.;nl
+Using the components purchased, the participants have to assemble a simple robot/complete a task (which shall be specified on the spot).;nl
+Our elite panel of judges shall choose the winner.</format><ps>disable</ps>
+<rules>
+• Only 2 or less person(s) per team.;nl
+• There is no pre-registration for this event. Teams can register on the spot just before the preliminary round.;nl
+• The preliminary round is only an elimination round. Performance in one preliminary round will not be considered in the evaluation of the other preliminary round or the final round.;nl
+• No outside help shall be sought by the teams. At the same time, the teams must design their own solutions to the problem statement. Any evidence of copying others designs will lead to immediate disqualification.;nl
+• Judges' and coordinators' decision is final and all the teams shall abide by it.;nl
+• Use of calculators/ mobile or any other electronic items will lead to immediate disqualification.</rules>
+<prize>Will be updated soon</prize>
+<contact>Syam Prasad 9495231976;nl
+Nikhil Thomson 8891642019</contact>
+</event>
+</cat>
+
+
+
+
+
+<cat>Computer Science
+<event>5
+<name>CODE PURSUIT</name>
+<desc>&quot;Computer programming is tremendous fun. Like music, it is a skill
+that derives from an unknown blend of innate talent and constant
+practice. Like drawing, it can be shaped to a variety of ends –
+commercial, artistic, and pure entertainment. Programmers have a
+well-deserved reputation for working long hours, but are rarely
+credited with being driven by creative fevers. Programmers talk about
+software development on weekends, vacations, and over meals not
+because they lack imagination, but because their imagination reveals
+worlds that others cannot see.&quot;
+;nl-Larry O'Brien and Bruce Eckel</desc>
+<format>
+The event comprises of three stages: a preliminary round, an
+intermediate round and a final round. ;nl Preliminary Round: consists of
+MCQs based on C/C++, algorithms, logical thinking and data structures.;nl Intermediate Round: Contestants clearing prelims will be asked to fix
+and run a bugged code.;nl Final Round: Contestants will be asked to write
+codes to solve given problem statements. Weightages are given for
+algorithm, efficiency, readability and adoption of  coding
+conventions.;nl;nl Prerequisite knowledge: C and C++ ;nl
+Platform and tools: Linux/GCC/GDB
+
+</format><ps>disable</ps>
+<rules>•Participants can be individuals/team of two.;nl•Participants are requested to carry their college ID card.;nl•Professionals are not allowed to participate.;nl•Judges decision will be final.
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Nikhil: 8547479516;nl
+Anna: 9400955015
+</contact>
+</event>
+<event>6
+<name>SPIDER SENSE</name>
+<desc>&quot;The Internet is the first thing that humanity has built that humanity
+doesn't understand, the largest experiment in anarchy that we have
+ever had&quot;
+;nl-Eric Schmidt
+
+</desc>
+<format>Partcipants are required to develop web application/website. ;nlThe event
+comprises of two rounds. Prelimanary round consists MCQ based on
+basics of HTML,CSS,PHP and Javascript. Selected participants will be asked
+to develop productive and scalable web application/website suiting to
+a particular theme.;nl
+;nlPrerequisite knowledge: HTML/PHP/CSS/Javascript
+;nlPlatform and tools: Linux/Apache/Bluefish/Firefox
+</format><ps>disable</ps>
+<rules>•Participants can be individuals/team of two.;nl•Participants are requested to carry their college ID card.;nl•Professionals are not allowed to participate.;nl•Judges decision will be final.
+
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Sujith G 9037223519 ;nl
+Melwin Jose  8089957396
+</contact>
+</event>
+
+
+<event>7
+<name>Mining Wizard</name>
+<desc>How efficiently can you handle data.?;nl
+Time bound attacks you throughout!;nl
+The softer you mine, the higher you reach;nl
+The smarter you query, the deeper you mine;nl
+The faster you are, the easier to win;nl
+The crown is just waiting for you, be ready to mine!;nl
+</desc>
+<format>The event includes three rounds which assess the deep knowledge in database querying and designing.;nl
+Every team clearing  preliminary round will be alloted a buddy volunteer who assists and evaluates the performance of team.;nl
+Preliminary Round: Consists of MCQs based on DBMS, SQL, data models,database schema and query optimisation.;nlRapid Round: Contestants will
+be given a relational database and set of quesions.Each team is expected to query out the required data for a particular question to the buddy volunteer in 5 minutes.;nl
+Final Round: Contestants will be asked to design a relational database schema for a given scenario.;nl
+;nlPrerequisite knowledge: SQL
+;nlPlatform and tools: Linux/MySQL
+
+</format><ps>disable</ps>
+<rules>•Its a team event of two participants.;nl
+•Participants are requested to carry their college ID card.;nl
+•Professionals are not allowed to participate.;nl
+•Judges decision will be final.
+
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Rohith: 9496059003;nl
+Lekshmi: 9497326994
+</contact>
+</event>
+
+<event>8
+<name>Andromeda</name>
+<desc> 
+&quot;Android powers hundreds of millions of mobile devices in more than 190
+countries around the world. It's the largest installed base of any
+mobile platform and growing fast—every day another million users power
+up their Android devices for the first time and start looking for
+apps, games, and other digital content.&quot;;nl;nl
+
+Oh boy! Everyone know what Android is! Now gimme Eclipse, my hand is itching!
+</desc>
+<format>This is a three round Android app development contest.;nl;nl
+Contestants must sent an android app base on the theme 'Frual Innovation' to andromeda.cetdrishti@gmail.com before 10th of
+September 2012.;nl;nl
+Apps may not be strictly based on the theme.;nl;nl
+The selected contestants will present their app before a judging panel in second round.;nl
+The final round is based on on-the-spot app development. Contestants will have to come out with apps suiting a particular theme in 2 hours.;nl
+;nlPrerequisite knowledge: Android app development
+;nlPlatform and tools: Linux/Eclipse/Android SDK
+</format><ps>disable</ps>
+<rules>•Participants can be individuals/team of two.;nl
+•Participants must sent their entries to andromeda.cetdrishti@gmail.com before 10th of September 2012.;nl
+•Multiple entries are allowed.;nl
+•Participants are requested to carry their college ID card.;nl
+•Professionals are not allowed to participate.;nl
+•Judges decision will be final.
+
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Colin: 9497709699;nl
+Sooraj: 9037755659;nl
+Sandeep: 9656352174
+
+</contact>
+</event>
+<event>9
+<name>Tux Hooks</name>
+<desc>&quot;... being a Linux user is sort of like living in a house inhabited by
+a large family of carpenters and architects. Every morning when you
+wake up, the house is a little  different. Maybe there is a new
+turret, or some walls have moved. Or perhaps someone has temporarily
+removed the floor under your bed.&quot;
+;nl- Unix for Dummies
+</desc>
+<format>
+Contestants will be asked to write a system program that implement a
+new Linux shell functionality.;nl
+A brief introduction to Linux Kernel API will be given prior to the competition.;nl
+The event consists of 5 rounds with increasing difficulty level. Every participant clearing
+preliminary round will be provided with Kernel API documentation and a buddy volunteer who assists the contestant. Participants can chat with moderator/buddy volunteer through a public IRC channel.;nl
+;nlPrerequisites knowledge: Basic C programming and ecstacy to tryout new things.
+;nlPlatform and tools: Linux/GCC/GDB
+</format><ps>disable</ps>
+<rules>•Participants must be individuals.;nl
+•Participants are requested to carry their college ID card.;nl
+•Professionals are not allowed to participate.;nl
+•Judges decision will be final.
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Deepak: 9495981553;nl
+Dhananjay: 9497317157
+</contact>
+</event>
+
+</cat>
+
+
+
+
+
+<cat>Electronics
+<event>10
+<name>Bug* the Bug !!</name>
+<desc>WTo be an engineer you must be able to innovate. Improvise... but you should also be able to find the faults in a circuit design. That is a necessity for every electronics engineer. Finding faults is not enough , being able to rectify it to work with necessary efficiency is also important.  Consisting of three rounds , first the prelims , and then two rounds , the first consists of finding the error while the second consists of getting the circuit corresponding to the waveform shown on the DSO. May the best debugging circuit crackers WIN!.
+</desc>
+<format>Prelims will be a Multiple-choice round wherein the technical ability of the team is put to test.
+	Team of 3;nl
+Finals will be conducted in two rounds;nl
+	Round 1 one unveils the debugging skill. A circuit will be presented to each team and the job in hand is simple find the error in it. Scoring will be decided by the judges. The teams must report every half an hour, to the concerned person about the bugs cleared. Time will be recorded as well.;nl
+	Round 2: A waveform will be displayed in the DSO and each team will be provided with the circuit components . All you need is to crack the circuit and play the waveform. Points will be decided by the judges.
+</format><ps>disable</ps>
+<rules>  Participants are allowed to carry calculators. but no other electronic computing devices
+  Data sheets (if required; excluding common IC’s like 555,741 etc) will be provided.
+  Usage of Mobile Phones will not be entertained.
+Decision of the co-ordinators will be final.
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Janani M  
++919497468966
+</contact>
+</event>
+
+<event>11
+<name>Matlab Coding</name>
+<desc>One of the most popular languages Matrix manipulation, function plotting, algorithm implementation etc also happens to be one of the hardest. It superimposes concepts of  C++ , Java, Fortran .  Only the truly meticulous participants will be expected to create and recreate using this platform. Signal processsing and waveforms will need to be plotted. The finals include complicated waveforms as well as simple ones.
+</desc>
+<format>
+•	Prelims (MCQ) will be conducted testing the basic concepts of signal processing and usage of MATLAB functions. ;nl
+	Team of 3;nl
+•	In Finals teams will be asked to produce a series of simple to complicated waveforms and various other signals using MATLAB. ;nl
+
+</format><ps>disable</ps>
+<rules>
+•	Participants are not allowed to use internet to obtain the code. ;nl
+•	Use of toolboxes in MATLAB are prohibited. ;nl
+•	Participants can use the inbuilt help and demos. ;nl
+•	Usage of Mobile  Phones will not be entertained. ;nl
+•	Winner will be decided on basis of time and accuracy of completion. ;nl
+
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Arjun M P 9400642170</contact>
+</event>
+
+<event>12
+<name>Electronic Hexathalon</name>
+<desc>Are you a true electronic whiz? do you wish to test your abilities against the best ? ELECTRO HEXATHALON ,  A 6 stage event consisting of basic electronic tasks checking your electronic knowhow is certain to distinguish you from the rest. Its not just circuits but design, debugging and components are other tests you will face in this gruelling event. The event will bring out the true engineer in you.
+</desc>
+<format>
+• Prelims (MCQ) will be conducted testing the overall knowledge of electronic circuits, day to day applications of these circuits.
+Team of 3
+• In Finals teams will face 6 tasks ranging from simple to complex, tasks will test the knowledge of basic circuits, components, design and debugging.
+</format><ps>disable</ps>
+<rules>
+• Participants are not allowed to carry calculators or any other electronic computing devices.
+• Data sheets (if required; excluding common IC's like 555,741 etc) will be provided.
+• Usage of Mobile Phones will not be entertained.
+Winner decided on basis of time and accuracy of completion...
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Krishnent S Kumar +918891947758</contact>
+</event>
+
+<event>13
+<name>Team Circuit Design</name>
+<desc>There's nothing like team work! TCD will put the coordination and spirit of your team to test! ;nl
+
+Each of you finish your portion of the circuit alone Then assemble the portions And let's see how well it works!!  ;nl</desc>
+<format>
+•	Prelims (MCQ) will be conducted testing the participants knowledge of general electronic components and practical circuits.;nl
+	Team of 3;nl
+•	Finals teams will be given 1min to assess the problem statement and then be asked to assemble 1/3rd of their circuit on a breadboard without the discussion of their partners individually on 3 separate breadboards ;nl
+•	The 3 separate circuits will be assembled together and complete the task once the three parts are completed.
+</format><ps>disable</ps>
+<rules>
+•	Participants found discussing after the allotted time will be disqualified on spot. ;nl
+•	Participants are not allowed to carry calculators or any other electronic computing devices. ;nl
+•	Data sheets (if required; excluding common IC's like 555,741 etc) will be provided. ;nl
+•	Usage of Mobile Phones will not be entertained. ;nl
+Winner decided on basis of time and accuracy of completion ;nl
+
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Nayanan D R +919746106101</contact>
+</event>
+
+<event>14
+<name>8051 Assembly Language Coding</name>
+<desc>And just in case you happen to possess a disposition to end your
+sentences with semi-colons in place of full-stops, you're at the right place.
+Actually, it doesn't matter too much if you don't, for we bring you here a
+programming contest that shall provide experienced coders a stage to fight
+it out amongst the best in the world while also serving to provide beginners
+an interesting experience and an exposure to competitive programming contests</desc>
+<format>
+;nlCriteria To Win
+;nl
+;nl(1) hex file generated should be of lower size
+;nl(2) fastest execution
+</format>
+<ps>
+Q1 ) Write An 8051 Asembly Language Program To Add TWO 8 Bit Data And Save Result
+;nl
+;nl
+First 8 Bit Data Is Located At 4000h;nl
+Second 8 Bit Data Is Located At 4001h;nl
+;nl
+Save Result - 4002h Onwards;nl
+;nl
+Upload Your ASM Code As Text File
+
+</ps>
+<rules>it's an online individual event;nl
+college students of any discipline is eligible to participate;nl
+a coding problem shall be given in each round to eliminate the weaker contestants;nl
+any decision made by the DRISHTI committee shall be considered as final;nl
+</rules>
+<prize>Will be updated soon</prize>
+<contact>IRFAN 7736559775;nlArun V Kumar +919400289813</contact>
+</event>
+
+</cat>
+
+
+
+
+
+<cat>
+
+<event>15
+<name>Cliona</name>
+<desc>`Young engineering folks !bright minds ! Technical wizards ! Wave creators !
+Here is the task to sharpen up your brains. Flaunt your skills blend in with your logic to unravel the wave patterns on the scope. Get embraced in the art of designing and creating the wave. Here is a marvelous chance to bring out the INGENIEUR in you. Step in to prove yourself a peerless wizard of waves!.
+</desc>
+<format>
+First round:;nl
+How good are you at interpreting wave patterns?;nl
+Gear yourself to solve a set of 20 questions, all about signals and waves. Shortlisted teams will go to the next round.;nl
+Final round:;nl
+Good job folks!! But speed up..Faster minds... Faster fingers.;nl
+For the brilliant minds who have cracked the first level, here awaits a test of your designing circuit skills.
+Contestants have to design promptly for the waveform given within the given time and with the given components only. Reproduce the given waveform according to the question given in the second level. Efficiently administer time and resources. The team which becomes successful to produce the exact replica of the given wave, then you are no doubt the &quot;wizard of waves&quot; ...
+</format><ps>disable</ps>
+<rules>
+•	A team can have only 2 members. No data sheets or literature of electronic components are permitted.;nl
+•	You only have one hour in the finals.;nl
+•	No inquiry except to the jury shall be allowed.;nl
+•	Students need not bring any instruments;nl
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Shriduth :
+9400900164
+
+</contact>
+</event>
+
+<event>16
+<name>CIRCUITOMETAGE</name>
+<desc>Can't think of a world of engineering being abstract...If you are a master in analytics &amp; circuitry, step to standards and mazes apropos electrical &amp; electronic measurement challenges.</desc>
+<format>
+Preliminary round:;nl
+		The preliminary round is aimed at selecting students with strong fundamentals in electrical and electronics. This comprises of a written objective test of 20 questions. The shortlist teams will enter finals.	;nl
+Final round:;nl
+		The selected teams will be given an arbitrary circuit and will be given a parameter to measure. The teams will have to analyse the circuit and come out with a solution to measure the given quantity with the instruments given. Points will be rewarded in favour of quick, simple and innovative approach. The team with most points will be declared winner.  
+
+</format><ps>disable</ps>
+<rules>
+•	A team can have only 2 members. No data sheets or literature of electronic components are permitted.;nl
+•	You only have one hour in the finals.;nl
+•	No inquiry except to the jury shall be allowed.;nl
+•	Students need not bring any instruments.;nl
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Krishnaraj : 9567698721</contact>
+</event>
+
+<event>17
+<name>Plug in</name>
+<desc>It's time you face the real challenge. Before you , is a task where your knowledge and skills about the basics will be tested and rivaled with that of worthy competitors. In this event your ability in designing and wiring up electrical as well as electronic circuits within the allotted time will be scrutinized and evaluated accordingly.</desc>
+<format>In this event teams have to compete in two rounds. In the first round your basic knowledge in electrical wiring will be tested. The finals will consist of a circuit problem for which, either you have to design a circuit satisfying the required conditions or correct a well designed circuit with interchanged components (input and the corresponding output will be given, no need to wire it up) after which you will be expected to design and wire-up a complex circuit in the most efficient and optimal way, satisfying the given conditions at the same time. Neatness of the circuit will also be checked. We count on your participation in this phenomenal event.
+;nl
+Hints;nl
+•	Keep it neat and simple.;nl
+•	Stick to the basics.;nl
+•	Check your watch frequently.;nl
+</format><ps>disable</ps>
+<rules>
+•	YOUR RESOURCES ARE LIMITED. A team can have only 2 members. No data sheets or literature of electronic components are permitted.;nl
+•	TIME IS PRECIOUS. You only have one hour.;nl
+•	Shhh...STOP TALKING. No inquiry except to the jury shall be allowed.;nl
+•	No testers or any other measurement devices shall be used.;nl
+•	BE CAREFUL. The team will be disqualified if the fuse blows out at least once during the main contest.
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Murali Manohar : 8547086485</contact>
+</event>
+
+<event>18
+<name>Wholly scrap!!</name>
+<desc>It is time to show how well you have comprehended what DRISHTI '12 stands for - FRUGAL INNOVATION!!!</desc>
+<format>
+Contestants should develop paradigms pertaining to a given problem with the help of nothing but scrap. The event provides contestants an arena to showcase their skills as an efficient electrical engineer. ;nl
+The team must consist of 3 or 4 members.;nl
+•	Preliminary round:;nl
+The contestants have to face the preliminary questionnaire where their fundamentals will be put to test. Shortlisted teams will move on to the second and final round.;nl
+•	Final round:;nl
+The winning teams will be given a problem statement within a specified time limit. And of course, your most valuable resource - a pile of scrap. The team that solves the problem in the most efficient way will be the winner and will be proclaimed as a &quot;FRUGAL INNOVATOR&quot;.
+</format><ps>disable</ps>
+<rules>Will be updated soon</rules>
+<prize>Will be updated soon</prize>
+<contact>Muhammed Imthias :9447439525</contact>
+</event>
+
+</cat>
+
+
+
+
+<cat>
+<event>19
+<name>Garage PRO</name>
+<desc>&quot;Speed is a great asset. But it is greater when it is combined with quickness- and there's a big difference&quot;;nl
+
+-Aldous Huxley;nl;nl
+It is time to find the fastest garage professionals in town..Grab your jack and spanners and show us what you've got!;nl
+
+Warning: Softies kindly stay out of this. This event is for those rough and tough guys who mean real business.</desc>;nl
+<format>
+Problem Statement : Compile the four tyres to the car in the shortest time. The fastest crew wins.</format><ps>disable</ps>
+
+<rules>
+•	A team can consist of a maximum of four members.;nl
+•	All tools and materials will be provided.;nl
+•	Cross college teams are allowed.;nl
+•	A valid college ID should be brought to the venue.;nl
+•	Pitstop is a spot event. Entry is based on first come first serve basis.;nl
+•	Decision of the judges is final;nl
+
+Judgement criteria.;nl
+The time will be noted by the judging panel and the decision shall be final and binding to all.
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Adarsh B : 9645582114</contact>
+</event>
+
+<event>20
+<name>CAD Design </name>
+<desc>&quot;Everything is designed. Few things are designed well.&quot;;nl
+-Brian Reed;nl;nl
+
+Section, elevation, trim, hatch, mirror, extrude..... Do these words turn you on? ;nl
+Then let us know what they really mean to you.;nl
+Give life to the words and let engineering mingle with art. ;nl
+Your design will do the talking!;nl
+
+</desc>
+<format>Design a ful- fledged computer aided model according to the given problem statement in the stipulated time.;nl
+
+Problem statement;nl
+
+Will be given at the commencement of the event. 
+
+
+</format><ps>disable</ps>
+
+<rules>
+•	CAD design is an individual spot event. Participants can register on the day of the event.;nl
+•	The event will consist of only one round.;nl
+•	Participants should produce a valid identity card of their institution.;nl
+•	Modelling software: Pro-E or Solid works.;nl
+•	The event is of duration 3 hours.;nl
+•	Decision of the judges is final and binding to all .;nl
+Judgement criteria:;nl
+Design perfection, elegance and practicability.
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Mohammed Shafeeq : 9895208190
+
+</contact>
+</event>
+
+<event>21
+<name>Mech-A-Thlon</name>
+<desc>&quot;Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last, you create what you will&quot; ;nl
+-George Bernard Shaw;nl;nl
+
+Are you that super cool engineering kid who thinks out of the box? Then you've hit the bull's eye!   ;nl
+All you gotta do is work your way out of the scrap and bring out the funkiest of designs. This is a sheer test of your creativity, time and material management skills, aptitude and team spirit.;nl
+
+</desc>
+<format>Problem statement.;nl
+There are three rounds. ;nl
+First round is a written round. Questions will test the participants' knowledge in basic mechanical engineering concepts.;nl
+Second round is also a test of the engineering skills, but through an unconventional round.;nl
+In the final round, the participants will have to fabricate, in the given working environment, a machine/mechanism to satisfy the problem statement. 
+</format><ps>disable</ps>
+
+<rules>
+• The team can consist of a maximum of four members.;nl
+•	Cross college teams are allowed.;nl
+•	Participants must bring valid identity card of their institute.;nl
+•	First and second round will be of duration one hour each.;nl
+•	The materials (tools included) for the final round will be provided for all the teams. Using any other materials will lead to immediate disqualification.;nl
+•	Final round is of duration 3 hours.;nl
+•	Decision of the judges is final.;nl
+
+Judgement criteria.;nl
+
+Marks are awarded for the mechanism on the basis of perfection of task completion.;nl
+Creativity, elegance and stability of the mechanism are the other criteria.
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Nithin Joseph Tito : 9809838381
+
+</contact>
+</event>
+
+<event>22
+<name>Past Cart</name>
+<desc>
+&quot;Scientists investigate that which already is. Engineers create that which has never been&quot;;nl
+		- Albert Einstein.;nl
+Imagine you went back to those ages, and we need you to device a mechanism to perform a specified task. Remember, only thing you possess is your logic and principles of classical physics and chemistry ; obviously no electronics and softwares.
+</desc>
+<format>
+Problem statement: ;nl
+Design and fabricate a vehicle to race with maximum speed using either pure mechanical drive springs , bands , windings or a combination of mechanical principles with a propulsion system air , water or even an exothermic reaction.;nl
+
+Specification:;nl
+•A plane surface with no slope, basically consisting regular terrains will be provided.;nl
+• The device will have to cover a distance of 4 m in the least time.. The device should be four wheeled and within specifications.;nl
+•The maximum allowed dimensions for the vehicle are 35cm x 25cm x 25cm.The control could be made only of mechanical systems. No electrical or electronics controls are allowed. All working parts should be visible, at least during the inspection by the judges.;nl
+•No ready-made systems available in the market shall be used, but participants are allowed to buy individual components and then assemble it by themselves. The mechanisms must be made in such away that it can be reloaded any number of times.;nl
+•Power supply will not be provided.;nl
+</format><ps>disable</ps>
+
+<rules>
+• A team can comprise of a maximum of three members.;nl
+• Cross college teams are allowed.;nl
+• Participants must produce a valid identity proof of their institute.;nl
+• Decision of the judges is final.;nl
+
+Judgement criteria. ;nl
+• Shortest time for the completion of race is the criteria. However if any violation in the dimensions or specifications is found, the team will be disqualified.;nl
+•Once the vehicle is released, it should not be touched or intervened. In case of intervention that attempt will be declared over.;nl
+•If the vehicle doesn't start in 30 seconds after release, the attempt will be declared over and will not be considered for judging.
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Azhar Ali:  9447379010</contact>
+</event>
+
+<event>23
+<name>AQUA THUNDER</name>
+<desc>&quot;A person has three choices in life. You can swim against the tide and get exhausted, or you can tread water and let the tide sweep you away, or you can swim with the tide, and let it take you where it wants you to go.&quot;;nl
+-Andrew Schneider;nl;nl
+Fasten your seat belts, fire the engine....But BEWARE, this is not some lame street racing. This is water; ruthless and unforgiving.</desc>
+<format>
+Problem Statement;nl
+Construct a remote controlled boat powered only by a DC electric motor and complete 3 laps in least possible time.;nl
+
+Event stages;nl
+
+Preliminary stage;nl
+
+•	Abstract submission (NON ELIMINATIVE);nl
+•	Abstract format (should not exceed 1 page):;nl
+•	Name, College and contact detail of the team leader.;nl
+•	Briefly explain the design and the material used for the boat.;nl
+
+
+Deadline for Abstract Submission : 10 September 2012;nl
+Abstracts should be send to this mail id : aquathunder.cetdrishti@gmail.com;nl;nl
+
+There wil be 2 rounds for the race.
+
+</format><ps>disable</ps>
+
+<rules>
+
+Track Specifications;nl
+•	The race track will be a track with left, right and U turns, S-shaped curves.;nl
+•	Despite organizers efforts to keep the track quality intact, if the track shakes slightly because of the ripples, participants should be able to control their boat accordingly.;nl
+•	The exact track will be revealed only on the day of the race.;nl
+•	A lap of the track is defined to be completed when the boat comes back to the start-finish line.;nl
+•	Elevated standing position for better control will be provided to the participants. Which will improve the controlling by a participant team by improving the visibility of the whole track at a single sight. But there is no such restriction to control the boat by making use of the provided platform.;nl;nl
+
+Machine specifications:;nl;nl
+
+Dimension and Fabrication;nl
+•	Maximum length of the boat: 20 inches.;nl
+•	Maximum width of the boat: 7 inches.;nl
+•	The boat controlled by a wireless remote control mechanism throughout the competition (15 % of points will be deducted from total points for use of wired control) .;nl
+•	The boat must not be made from Lego parts, or any ready-made assembly kits.;nl
+•	Remote control systems from toys might be used. Remote control systems available in the market may also be used.;nl
+•	Balsa wood or fiber glass or any other light in weight but strong material can be used for the construction.;nl
+
+Motor specifications;nl
+•	The boat must have an onboard power supply to provide power to any mechanism requiring electric power.;nl
+•	Only dc motor should be used for the power supply.;nl
+•	The maximum allowed speed of an electric motor is 7000 r.p.m.(i.e. Participants can also use dc motor of 5000 r.p.m or any other dc motor lower in speed than 7000 r.p.m ).;nl
+•	The electric voltage provided to the motor shaft should not be more than 12V.;nl
+Speed controller should be used so as to control the speed of the dc motor.;nl
+
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Bibin V Baby : 9037467521</contact>
+</event>
+
+</cat>
+
+
+
+
+
+
+<cat>
+<event>24
+<name>Chateau De Mars</name>
+<desc>
+If 2012 is indeed the end of the world, we better start packing. Next stop.. Mars.. And what's great is, you get to design your own crib. A little homely touch, or a full-on star trek rip-off.. you call the shots..</desc>
+<format>You are required to design a pod for a family of 4 on our friendly neighborhood planet, Mars .</format><ps>disable</ps>
+
+<rules>
+Rules ;nl;nl
+•	The residence should be designed keeping in mind the conditions on Mars.;nl
+•	Standards used for a house on earth apply here too.;nl
+•	Submission requirements: Plans, Sections, Elevations and Views.;nl
+•	Designs  may either be hand-drafted or plotted on A3 sheets.;nl
+•	Sheets will be provided. Participants will have to bear the cost of plotting their sheets if they wish to do so.;nl
+Time allotted:  Max. 4 hours
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Padmajan -9947194868</contact>
+</event>
+
+<event>25
+<name>My living room just sped by!!</name>
+<desc>
+Let's face it.. wouldn't it be just awesome if you could take your room with you WHEREVER you go? Well, why stop at a room when you could take your entire house for a drive..don't hold back.. design away. </desc>
+<format>Design a single seater car with all the functionality of a home. ;nl</format><ps>disable</ps>
+
+<rules>
+RULES;nl;nl
+•	It must be a car and not a caravan. The dimensions of the car must not exceed a regular sedan by a great margin.;nl
+•	Standards may be altered appropriately to make up for the tight space.;nl
+•	Once again, creativity will be rewarded.;nl
+•	Designs may be hand-drafted or plotted on A3 sheets.;nl
+•	Sheets will be provided. Participants will have to bear the cost of plotting their sheets if they wish to do so.;nl
+Time allotted: Max. 3 hours
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Padmajan -9947194868</contact>
+</event>
+
+<event>26
+<name>Michelangelo of the Poor</name>
+<desc>
+Time to hit the dirt and get cheap. Toothpick, hay, leaves.. everything's in.  Only the resourceful shall survive. 
+</desc>
+<format>Think you're the king of models? How about a test against the best?;nl
+The  participants are required to make a physical model in the given scale.;nl
+There is a catch though. The models will not have an inch of modelling materials. Materials will be provided on the spot. ;nl
+</format><ps>disable</ps>
+
+<rules>
+•	Prove your resourcefulness, make the best out of a messy situation.;nl 
+•	Brownie points for creative use of the materials.;nl
+•	Participants must bring their own adhesives, cutters, and anything else they might wanna use. Note that no other materials other than the materials provided will be allowed.;nl
+•	Maximum time allotted is 3hrs.;nl
+
+Time allotted: Max. 3 hours
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Padmajan -9947194868</contact>
+</event>
+
+</cat>
+
+
+
+
+
+
+<cat>
+
+<event>27
+<name>TECHILA</name>
+<desc>Technology+Innovation+ Bplan = Techila .
+It is technology based business plan competition based on the theme of - INNOVATION. 
+Under the above mentioned theme, we are primarily looking into 2 sectors
+•	Health and Technology
+•	Rural Upliftment
+</desc>
+<format>•	It will be a 1 day event- on 16th of September.
+•	Teams can have a maximum of 3 members. 
+•	Teams will be selected prior to the competition date based on the abstracts they send. 
+•	There is No registration fees
+</format><ps>disable</ps>
+
+<rules>
+•	Teams have to send in their abstracts on or before the 12th of september
+•	Abstracts should contain- Brief description of the idea+ marketing strategy+ revenue model.
+•	Keep the abstract as short and simple as possible. 
+•	Be original.
+</rules>
+<prize>Will be updated soon</prize>
+<contact>George Jacob- 09496334603 ;nl
+Sharan Thampi- 08089589272
+</contact>
+</event>
+
+<event>28
+<name>JUGAAD</name>
+<desc>The Heat of the market is ON. A competition that tests a team's capability, their team work, marketing skills and their profit making skills. 
+JUGAAD is what young entrepreneurs do, JUGAAD is what it takes to make it Big on the Big Stage.
+</desc>
+<format>•	3 day event
+•	5 rounds
+•	Team of 5
+•	Registration fees- Rs 100
+</format><ps>disable</ps>
+
+<rules>This is the best part.;nl;nlThere is only one rule;nl
+There are NO rules..!!!
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Tejas Kumar - 08089324091;nl
+Deepak V - 09037994944
+</contact>
+</event>
+
+
+<event>29
+<name>EUREKA</name>
+<desc>If you have that little engineering
+aptitude in you, EUREKA
+is a must get down stop in
+DRISHTI'12. Don't miss your
+chance to walk in with your
+hands free and grab exciting
+prizes. ;nl
+
+Just feel the thrill of being a
+creator. ;nl
+We will keep you updated....
+stay tuned ;nl
+</desc>
+<format>
+Now here is the task. You have to make a simple
+engineering model with the junk that we provide
+you within the stipulated time. The model that you
+have to make and the criteria for selecting the best
+works will be said only on the spot. The very basics
+of engineering and a little creativity , that's all you
+need .;nl
+
+For example, you may be asked to make a parachute
+using a polythene bag and other items and the
+winning model could be the one which lands last. ;nl
+</format><ps>disable</ps>
+
+<rules>
+• Members in a team shouldn't exceed 2.;nl
+• The decision of the judges will be final.
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Ajith K-9744516170</contact>
+</event>
+
+<event>30
+<name>PAPER PRESENTATION</name>
+<desc>Break out of the cocoon and prepare to fly like a butterfly!! ;nl
+
+Its time you unleash the geek in you and flaunt your knowledge! 
+And guess what! We pay you for that! ;nl
+</desc>
+<format>There's no better opportunity than a paper presentation contest for true appreciation and encourage for new ideas and genuine research.. This is also an opportunity for all interested students to interact, get a taste of ongoing research and gain a lot of knowledge. So make sure you send your paper before the deadline.;nl;nl
+Deadline for abstract submission: September 8;nl
+
+Seperate competetion for UG and PG in CIVIL
+</format><ps>disable</ps>
+
+<rules>
+•	Paper presentation is an event of two students per team. ;nl
+•	Extra marks will be allotted if the topic relates to frugal innovation. ;nl
+•	The abstract of the paper must be sent to the event manager by e-mail on or before September 8 . The subject of the e-mail should be 'Paper presentation'. ;nl
+•	The abstract will be examined by a panel of judges and selected candidates will be intimated on or before September 10. ;nl
+•	Selected candidates will have to submit the full paper on or before September 12. ;nl
+•	Three hard copies of the paper (in A4 size) should be brought to the venue at the time of presentation. ;nl
+•	Presentation time of 15 minutes is allowed per team. ;nl
+•	The presentation is followed by a 'question and answer' session. ;nl
+•	The participants should produce a valid identity card of their institute. ;nl
+•	The decision of the judges is final. ;nl
+•	The paper must strictly follow IEEE Standards
+
+You can choose topics given below;nl;nl;nl
+Electrical;nl
+IEEE papers also can be selected;nl
+•	Power Systems;nl
+•	Power electronics &amp; devices;nl
+•	Electrical Machines;nl
+•	Hybrid electric vehicles;nl
+•	Non Conventional Energy Sources;nl;nl
+
+Mail id : elec_papers@cetdrishti.com;nl;nl
+
+Electronics;nl
+•	Nano- Robotics and Bio- Robotics ;nl
+•	Wireless Communication ;nl
+•	Artificial Neural Network &amp; Fuzzy Logic  ;nl
+•	Signals &amp; Image Processing  ;nl
+•	VLSI ;nl
+•	Embedded Systems ;nl
+•	High Speed Electronics Devices  ;nl
+•	Mechatronics ;nl
+•	Nanotechnology  ;nl
+•	Heterogeneous Structures ;nl
+•	Photonic and Opto-Electronic circuits  ;nl
+•	Nano-technology Implementations ;nl
+•	VLSI ;nl
+•	Vehicular telematics (Application challenges and operations) ;nl
+•	Sensors and actuator systems ;nl
+•	Micro and molecular electronics ;nl
+•	Adaptive Signal Processing ;nl
+•	Embedded Systems ;nl
+•	RFID and Applications ;nl
+•	Biometrics &amp; Bioinformatics  ;nl
+•	Microcontroller and its applications ;nl
+•	DSP and its applications ;nl
+•	Digital Image Processing ;nl
+•	Cryptography ;nl
+•	Mechatronics ;nl;nl
+
+Mail id : tele_papers@cetdrishti.com;nl;nl;nl
+
+Civil Engineering;nl
+Separate contests for UG (B-Tech) &amp; PG (M-Tech) students.;nl
+The topic can be from any of the following areas:;nl
+•	Application of  remote sensing in civil engineering.;nl
+•	Concrete Technology and Building Materials;nl
+•	Construction Management and Methods;nl
+•	Engineering Geology;nl
+•	Environmental Engineering;nl
+•	Geo-informatics;nl
+•	Geotechnical Engineering;nl
+•	Green Buildings/Technologies and Sustainable Development;nl
+•	Hydraulics and Water Resources Engineering;nl
+•	Off-shore structures;nl
+•	Structural Engineering;nl
+•	Transportation/ Traffic Engineering;nl
+•	Urban Planning and Architecture;nl;nl
+
+Mail id : civil_papers@cetdrishti.com;nl;nl;nl
+
+
+Mechanical  Engineering;nl
+
+•	Thermal Science;nl
+•	Production Engineering;nl
+•	Industrial engineering and management;nl
+•	Machine Design;nl
+•	Solid Mechanics;nl;nl
+Mail id : mech_papers@cetdrishti.com
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Mechanical Engineering ;nlBijo Sebastian : 9446862538;nl;nl
+Electrical Engineering ;nlGeorge jacob : 9496334603 ;nl;nl
+Electronics ;nlSreekanth Menon : +919400452337;nl;nl
+Civil Engineering ;nlAnvin sebatian : 9497323021;nl</contact>
+</event>
+
+<event>31
+<name>DRISHTI MAIN QUIZ</name>
+<desc>
+When the best of the quiz masters and the quizzers in the country are in the same room, you're bound to experience an energy that makes you wish you were one among them. This Drishti brings you three exciting quizzes:
+</desc>
+<format>Its a quiz, dude. As simple as that.</format><ps>disable</ps>
+
+<rules>General Quiz- Rules and
+Regulations ;nl
+• The participants
+should produce a
+valid College id for
+registration ;nl
+• Max 2 members per
+team ;nl
+• Cross college teams
+are allowed. ;nl
+• A prelims will be
+conducted from
+which 6 teams will
+
+be selected to the
+finals ;nl
+
+Open Quiz- Rules and
+regulations ;nl
+
+•	Max 2 members per
+team ;nl
+No age limit. ;nl
+A prelims will be
+conducted from
+which 6 teams will
+be selected to the
+finals. ;nl
+
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Sreejesh Sarath : 9447326035</contact>
+</event>
+
+<event>32
+<name>AUTO QUIZ</name>
+<desc>&quot;Knowledge is power and enthusiasm pulls the switch&quot;;nl
+-Steve Droke;nl;nl
+
+Did you know the Volkswagen Beetle that made its first appearance in &quot;The love bug&quot; was called Herbie?;nl
+And did you know the symbol of Ferrari is a prancing horse?;nl
+This is the wake up call for all automobile freaks out there! We are gonna make you pull out and display the intricate details you've etched to your grey cells, be it the logo of general motors or the James Bond car in Ian Fleming novels ! ;nl
+Come and battle it out for the numero uno!</desc>;nl
+<format>NOthing is special here. Just that the words you are gonna hear are only about engines, cars, speeds and wheels.</format><ps>disable</ps>
+
+<rules>Rules and
+Regulations ;nl
+• The participants
+should produce a
+valid College id for
+registration ;nl
+• Max 2 members per
+team ;nl
+• Cross college teams
+are allowed. ;nl
+• A prelims will be
+conducted from
+which 6 teams will
+
+be selected to the
+finals ;nl</rules>
+<prize>Will be updated soon</prize>
+<contact>Will be updated soon</contact>
+</event>
+
+<event>33
+<name>PAPER  PLANE</name>
+<desc>&quot;No flying machine will ever fly from New York to Paris ... coz no known motor can run at the requisite speed for four days without stopping.&quot;;nl
+   
+    --Orville Wright;nl;nl
+
+Words from the great man himself. But you know this isnt true today. Planes fly distances manifold than the one described and travel without stopping for many days.;nl
+
+but now, the question is...CAN UR PAPER PLANE DO THAT..?
+</desc>
+<format>Now here is the task. You have to make a simple
+engineering model with the junk that we provide
+you within the stipulated time. The model that you
+have to make and the criteria for selecting the best
+works will be said only on the spot. The very basics
+of engineering and a little creativity , that's all you
+need .;nl
+
+For example, you may be asked to make a parachute
+using a polythene bag and other items and the
+winning model could be the one which lands last. ;nl</format><ps>disable</ps>
+
+<rules>
+•	A group of two can participate.;nl
+•	Paper  and glue will be provided at the venue.;nl
+•	Participants should register at the right time.;nl
+•	There will be two trial and only a single chance for final judgment.;nl  
+•	Decision of judging panel will be final
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Anoop Jhony-9946673837</contact>
+</event>
+
+<event>34
+<name>SPOT N SHARE</name>
+<desc>Photography is more than an art which takes us places unexplored, undiscovered and never thought of! For a photographer, it's nothing else but giving your own eyes to the world. You can show them what you saw - in that very moment, when you were right there, exactly in front of your subject - with a camera in your hand!;nl
+
+We provide Drishti'12 as the canvas. Come...sketch your imagination...</desc>
+<format>        This photography contest will be based upon a THEME, which will
+announce at the time of spot registration (during DRISHTI 12).
+</format><ps>disable</ps>
+
+<rules>GENERAL SPECIFICATIONS;nl
+       Photo submissions can be in color or black and white, and must be
+digital photos.;nl
+       Excessive tricky photos such as light drawing, shaped bokeh etc  are
+not allowed.;nl
+       Photos must be submitted by the original photographer. Photo
+submissions that are taken by someone other than the applicant will
+not be accepted.;nl
+       Home participation is not allowed.(CETIANS are not allowed);nl
+       Multiple entries are not allowed;nl
+
+PHOTO SUBMISSION;nl
+       Photos must be submitted electronically to the mail address
+&quot;spotandshare.drishti12@gmail.com&quot;;nl
+       No printed photos will be accepted.;nl
+Along with the submission, You MUST include the following information
+in the submission form:;nl
+       Your full name, a Contact telephone number and your email address.;nl
+       A brief paragraph biography of the photographer.;nl
+       A title for the photograph;nl
+       A brief description of the image, including where and when it was
+taken, any information on the person or other details in the image,
+and any relevant stories;nl
+
+PHOTO FORMAT;nl
+       We can only accept digital photo submissions, No printed photos will
+be accepted.;nl
+       Photos must be submitted electronically as a high resolution image,
+The maximum file size is 3 MB.;nl
+       All photos must be in .jpg format.;nl
+
+
+
+PERMITTED MODIFICATIONS;nl
+       Images may be cropped and rotated as necessary as long as the
+rectangular format is maintained and the size is within the
+specifications above.;nl
+       Images may be resized as long as the aspect ratio is maintained;nl
+       Red-eye removal and spot editing;nl
+       One-step enhancement (such as &quot;AutoFix&quot;, &quot;QuickFix&quot;, &quot;Auto Levels&quot;, etc.);nl
+       Use of filters to sharpen, soften, blur, despeckle, or remove noise.;nl
+       Use of corrective functions to improve the natural appearance of the
+image, such as levels, contrast, brightness, curves, intensity, tone,
+hue, saturation, lightness, value, color balance, and tint.
+;nl
+NON PERMITTED MODIFICATIONS;nl
+       No borders or frames may be added to images;nl
+       No watermarks, signatures, or copyright notices may be added to images.;nl
+       Artistic filters are not permitted.;nl
+
+PHOTO JUDGEMENT;nl
+       All photos that comply with the call for photo rules will undergo a
+competitive process of expert jury review.;nl
+       The judges decisions are final, and there is no recourse.;nl
+       Jury also reserves the right to reject photos that clearly do not
+reflect the theme of the competition.;nl
+</rules>
+<prize>1st - Rs. 3000</prize>
+<contact>AbdulShukkur- 9895724722</contact>
+</event>
+
+<event>35
+<name>YOUNG ENGINEER</name>
+<desc>"a child can ask questions that a wise man cannot answer";nl.....Anonymous;nl
+
+
+Got an idea..??..share it...;nl
+Can build a model..??...do it..;nl
+
+We are waiting for you..with prizes...;nl
+
+Raising questions has been the classic approach to studying by all students. But answering them with scientific approach and creativity makes an engineer. And this time, CET is giving away prizes for the most promising and innovative ideas and engineering models from high school students.;nl
+
+And Winners are gonna get CERTIFICATES signed by HON FORMER PRESIDENT OF INDIA DR.A P J ABDUL KALAM.;nl
+
+Is your model ready yet..??
+</desc>
+<format>Will be updated soon</format><ps>disable</ps>
+<rules>
+1   Student groups upto 4 members can participate. Individuals can also participate.;nl
+2   Students can present either a working model(with detailed report) or present their idea in detail (with a power point presentation and report).;nl
+3   Competition will be separate for model and idea.;nl
+4   Any number of groups can be participated from each school.But a student can not participate in more than one group.
+</rules>
+<prize>Best Model ;nl
+1st - 5000;nl
+2nd - 3000;nl
+3rd - 1000;nl
+
+Best idea - 3000;nl</prize>
+<contact>Sarath Mohan-8089378232</contact>
+</event>
+
+<event>36
+<name>The Next Big Idea!!</name>
+<desc>Do you think that you have what it takes to turn this world a better place!!;nl
+An exciting event for the innovative minds!!! ;nl
+
+</desc>
+<format>
+•	Any innovative idea that can enrich life, provide business opportunities or be of help to society is  welcome. ;nl
+•	The participants must send an abstract to the given mail id:anoojjames@gmail.com on or  before 10th of  September. ;nl
+•	The idea must be clear in its objective. A powerpoint presentation about the idea need to be brought for the competition. ;nl
+•	Working models need not be brought. </format><ps>disable</ps>
+
+<rules>
+•	The idea must not be in use anywhere else. ;nl
+•	Assumptions are acceptable if they are realistic.;nl
+•	Powerpoint presentation explaining the idea must contain not more than 12 slides excluding the title slide.;nl
+•	A maximum of 15 minutes will be provided for presentation which will be followed by cross-questioning by the judges.;nl
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Anuj James : +919037532795.;nl</contact>
+</event>
+
+<event>37
+<name>The BEST ENGINEER</name>
+<desc>Do you have what it takes to be an engineer? Are you the best?;nl
+The question is simple. The question is straight. Do you have it in you to turn a stick to stilt? Can you see motor running in a fan? Can you feel the sine waves in your phone call?;nl
+If yes, then you ain't bad ;) Gear up! Come forward and prove yourself. Beat the BEST brains from the country and become THE BEST ENGINEER! 
+</desc>
+<format>Will be updated soon</format><ps>disable</ps>
+
+<rules>Will be updated soon</rules>
+<prize>Will be updated soon</prize>
+<contact>
+Anuj James : +919037532795.;nl
+Jithin Sarma : +918891952189.
+</contact>
+</event>
+
+<event>38
+<name>Grey Cell Ruffle(techhunt)</name>
+<desc>Tired and Bored of running around?
+Living in the new world where the grey cell matters more? Where brains triumphs over brawn?
+Then, this is what you've been waiting for!
+Get those grey cells firing because you'll need 'em!
+A treasure hunt the likes of which you'll never have experienced before
+Feel the real essence of engineering and problem solving</desc>
+<format>
+•	Teams must be of  3-5 members ;nl
+•	Members from different branches is recommended;nl
+•	Participants must have an aptitude to think out of the box. The questions of the ruffle measures a mix of both subject knowledge and ability to apply it;nl
+•	The event comprises of questions and clues emcompassing Electronics, Electrical, Civil, Mechanical and Computer Science branches;nl
+•	2 day event;nl
+•	Round 1 will be a written prelims covering various aspects of all above mentioned branches;nl
+•	Round 2 will be the Hunt where each team will be given a clue to start of the hunt;nl
+•	All equipments, datasheets, diagrams etc required for the unraveling of the clue will be provided. Limited access to internet might also be provided if deemed required;nl
+</format><ps>disable</ps>
+
+<rules></rules>
+<prize>Will be updated soon</prize>
+<contact>Praveen Sekhar : 7736899043;nl
+Kiran Rajmohan : 9895680345</contact>
+</event>
+
+<event>39
+<name>Dismantle Mania</name>
+<desc>All parts should go together without forcing. You must remember that the parts you are reassembling were disassembled by you. Therefore, if you can't get them together again, there must be a reason.;nl
+-IBM ;nl
+
+If you take 'em apart..You fix 'em back.</desc>
+<format>
+Each team will be given a device or machine. The team must take apart the parts, retrieve all the numbers;nl
+and reassemble the device properly before the time is up.
+</format><ps>disable</ps>
+
+<rules>Knock out rounds.;nl
+Total of 5 rounds with increasing difficulty.;nl
+Last 20% each round and those not completing within time will be eliminated in each round.;nl</rules>
+<prize>Will be updated soon</prize>
+<contact>Amal B Nair - 9446866422</contact>
+</event>
+</cat>
+
+
+
+
+
+
+
+
+<cat>
+<event>40
+<name>Cube Testing</name>
+<desc>Either you are a born engineer or an engineer by experience...but not just by the degree...
+As reminiscence of the above quote and to challenge the real engineer in you, we have an enigmatic problem in store from the civil arena...
+Concrete cube testing is one of the prima facie from the civil department for DRISHTI every year. This year we have envisaged deviating from the customary strength testing of traditional concrete cubes by introducing the principles of prestressing. To rectify the drawbacks of conventional reinforced concrete and to cater the needs of the booming construction industries, prestressing techniques have been quantified a lot lately. So we are moving a step ahead in this direction by setting up a problem statement with the objective of introducing the prestressing design criterions along with accelerated strength test.
+So its time to put your hands on this event and unravel the challenge... </desc>
+<format>
+Problem Statement and Other details  ;a; ;hrf;http://cetdrishti.com/pdf/concrete_cube.pdf;/hrf;  Here ;/a;;nl
+Sample calculation  ;a; ;hrf;http://cetdrishti.com/pdf/concrete_cube_sample_calc.xlsx;/hrf;  Here ;/a;;nl
+•	The participants can register till the 3rd of September by sending soft copy of their mix designs to the email id provided in contact.;nl
+•	The participants can cast the cube only on the 8th of September. To ensure this, a unique alpha-numeric code will be sent to each team (to their email id).;nl
+•	The participants must bring 2 cubes of size 15cm x 15cm x 15cm along with a hardcopy of their mix design.;nl
+•	The weight and dimensions of the cubes will be measured to find the density;nl
+•	The cubes will be subjected to a compression test to determine the 7 days compressive strength (fci).;nl
+•	The cubes must attain a minimum fci of 40 MPa, otherwise the team will be disqualified.;nl
+•	Steel and polymers in any form is not allowed; any grade and type of cement can be used.;nl
+</format><ps>disable</ps>
+<rules>
+•	Maximum number of members in a team is restricted to 2.;nl
+•	Both the soft copy and the hard copy of the mix design must contain the name of the team, names and details of members (incl. ph no) and signature of the guide.;nl
+•	The online submission is mandatory and on the spot registration is not permitted.;nl
+•	The last date of online submission is 3rd of September.;nl
+•	Entries should be mailed to cubetesting.cetdrishti@gmail.com;nl
+•	Decision of the judging committee will be final.
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Ajmal Salim : 9746185016 ;nl
+Aswin Balan : 9400711047
+</contact>
+</event>
+
+<event>41
+<name>Il Maestro</name>
+<desc>A combined test of your modeling skills, aesthetic sense, problem solving ability and mechanics aptitude, maestro is one of those less trodden lanes in Civilyhills where ones' ability to devise a mechanical solution to a dynamic requirement is put to challenge.;nl
+
+</desc>
+<format>
+PROBLEM ;nl;nl
+In this event, you will be required to model a structure, staying within a given set of parameters (which may be in terms of dimensions) which can withstand a particular type of loading applied in a particular manner.;nl
+
+EVENT FORMAT;nl;nl
+
+•	The event shall comprise of a prelims challenging your knowledge in basic mechanics, general aspects in civil engineering and general aptitude.;nl
+•	Selected students shall compete in the next round, where they will be provided with a question for which they will have to construct a model.;nl
+•	The models shall be tested openly and the team members shall be quizzed on the efficiency of their model and the suitability of their solution.
+</format><ps>disable</ps>
+<rules>
+•	Four members per team.;nl
+•	More than one team allowed per college.;nl
+•	Question will be provided at the venue.;nl
+•	All interested teams must register online by mailing us with the name of team leader. All further contact shall be made through the team leader.;nl
+•	In case the number of participants exceeds the limit, a preliminary screening will be conducted.;nl
+•	All required materials will be provided. The teams are not permitted to bring and use any other materials other than the ones provided.;nl
+•	The teams shall abide by the instructions of the coordinators.;nl
+•	Appeals on the decisions made by the coordinators at any stage shall not be entertained.
+</rules>
+<prize>Will be updated soon</prize>
+<contact>
+Sandeep : 9037668510;nl
+Deepak anand : 8090751868
+</contact>
+</event>
+
+<event>42
+<name>The King Cross</name>
+<desc>Long, long, long ago there lived a king who happily ruled his kingdom. But the
+
+good old times flew past him too quickly. Now he was in the grip of fear of losing
+
+his kingdom, not to an enemy, not to any other king, but to the nature's wrath,
+
+to a devastating storm. He thought and thought and thought the ways to counter
+
+the storm and at last reached a decision &quot;let us take refuge to the nearby island&quot;.
+
+But that was not an easy task for they would have to cross a river of width 6km
+
+(simply to exaggerate!!), accompanied by ferocious wind and raging water. &quot;How
+
+can I safely get my people out of this crisis??&quot;.Minister replied &quot;a BRIDGE is
+
+the only solution, your highness!!&quot;king felt much relieved and ordered his best
+
+architects and builders to construct a prototype bridge spanning 0.6m long using
+
+only ice-cream sticks (which were the most abundant there).he promised a huge
+
+amount for prize money to the builder whose bridge sustains the maximum
+
+load.so I pass on this question to you guys, could you make a bridge which could
+
+likely offer the king a cross??
+
+</desc>
+<format>
+• Teams must submit their bridge half hour before the competition for inspection. Teams will be given 15 minutes to modify bridges which do not pass inspection.;nl
+• Inspection will test that the construction rules were followed and will record the mass of the bridge.;nl
+• Certified bridges will be placed over &quot;Crusher Canyon&quot; by the team members, who may make final adjustments in its position. The canyon will consist of a 60 cm space between two flat desktops. A 5cm deep movable groove will be provided on both sides of the deck for placing the towers. Nothing else will be provided to keep the base of the bridge in place during loading.;nl
+• Once the bridge is in position, a loading tray will be attached at the centre of the span centrally on the deck and the loading process is commenced.;nl
+• NOTE- The deck and truss of the bridge should be built in such a way that a bar of maximum diameter 1 inch (allowance for attaching the loading tray) can comfortably rest on the deck, perpendicular to the span.;nl
+• Bridges will then be subjected to loading. Bridge failure will be considered the point at which the bridge breaks or the point at which the loading tray drops more than 5 centimetres from the unloaded position.
+</format><ps>disable</ps>
+<rules>
+Click ;a; ;hrf;http://cetdrishti.com/pdf/king_cross.pdf;/hrf;  Here ;/a;
+</rules>
+<prize>Will be updated soon</prize>
+<contact>Sreehari c : 09037745070;nl
+Vishnu Nair : 09037726096</contact>
+</event>
+
+<event>43
+<name>Design and Present</name>
+<desc>
+This event is an opportunity for the participants to tackle a real industry related application level problem. The problem statement will be shortly uploaded in the site. Participants are expected propose novel solutions based on sound engineering principles. This is the best platform to demonstrate one's imagination and creativity, and probably the person who gives the best solution may also get the chance to see it become a reality.</desc>
+<format>
+Problem Statement and Other details  ;a; ;hrf;http://cetdrishti.com/pdf/design_present.pdf;/hrf;  Here ;/a; ;nl;nl
+Phase I;nl
+
+(1) Structural, Architectural and Functional Design ;nl
+
+a) Submit the plan and the elevation of the bridge ;nl
+b) Drawings/Images (AutoCAD, Photoshop, Paint etc.) of the bridge will be added advantage and will fetch more points. ;nl
+c) Considerations on environmental impact during and after construction will fetch more points.;nl
+d) State any extra amenities that you would like to add on the bridge like toll booths, footpaths, stalls, night lightning, landscapes and so on and clearly mention them in the drawings. Think in such way that this bridge would be a tourist attraction. ;nl
+e) Let your imagination soar. Creativity will be highly rewarded. ;nl
+f) Design the deck of the bridge based on given traffic and weather data. ;nl
+g) Take all relevant factors like camber, drainage, sight distances, super-elevations, transition curves, frictional and light reflecting properties of the surface etc into account. ;nl
+h) Use of IRC Codes is recommended. Some useful ones are: IS 875, IS 456:2000, IS 1498:1970, IS 1893:1975, IS 2911, IS 3764: 1970, IS 3955:1967, IS 5121, and other relevant codes for bridges.;nl
+;nl
+Structural Design ;nl
+
+With the help of given data and topographical conditions design all the elements of the bridge like piles, footings, piers, cables, longitudinal and transverse beams etc. ;nl
+Submit Design Basis Report (DBR). A DBR should contain the methodology adopted for design, relevant assumptions and load calculations. Above mentioned requirements should be submitted in the first round.;nl
+;nl
+Phase II;nl
+Presentation of the bridge design and the construction management strategies proposed before the judging panel. ;nl
+;nl;nl
+Entries should be mailed to dnp.cetdrishti@gmail.com;nl
+
+</format><ps>disable</ps>
+
+<rules>Will be updated soon</rules>
+<prize>Will be updated soon</prize>
+<contact>
+Lakshmi narayanan : 8129894911;nl
+Sreekanth : 09809922701
+
+</contact>
+</event>
+
+</cat>
+</events>

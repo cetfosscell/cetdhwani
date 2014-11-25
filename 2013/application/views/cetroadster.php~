@@ -1,0 +1,160 @@
+<html>
+	<head>
+	
+	<style type="text/css">
+				#header
+			{
+					width: 100%;
+					height: 10px;
+					background-color: #000;										
+				}
+				body
+				{
+				margin: 0;	
+				
+				background-color: #f7f7f7;				
+					}
+				#right
+					
+					{
+					position: fixed;
+					left: 50%;
+					top: 10px;
+					width: 50%;		
+					overflow: scroll;
+					height: 100%;					
+						}
+					#left
+					{
+					position: fixed;
+					left: 0;
+					top: 10px;
+						
+						width: 50%;		
+						height: 100%;			
+						}
+						
+						#left img
+						{
+							position: fixed;
+							left: 0;
+							top: 10px;
+							width: 45%;
+							height: 100%;							
+							}
+							input[type=text]
+								{
+									width: 250px;
+									padding: 6px;
+									height: 30px;									
+									}
+input[type=email]
+								{
+									width: 250px;
+									padding: 6px;
+									height: 30px;									
+									}
+textarea
+								{
+									width: 250px;
+									padding: 6px;
+									height: 30px;									
+									}
+
+</style>
+		</head>
+	<body>
+	<div id="header"></div>
+	<div id="left"><img src="<?php echo base_url();?>images/road.jpg" alt="roadster" /></div>
+	<div id="right">
+	<?php         $this->load->helper('form');
+        echo form_open('controller/reg');
+?>
+	<h4>WELCOME TO CETROADSTERS ONLINE REGISTRATION PORTAL</h4>
+		<p>
+			<label for="name">Name :</label><br/>
+			<input type="text" name="name"/>
+			<?php echo form_error('name'); ?>
+		</p>      
+		<p>
+			<label for="email">Email :</label><br/>
+			<input type="email" name="email"/>
+			<?php echo form_error('email'); ?>
+		</p>      
+		<p>
+			<label for="sex">SEX :</label><br/>
+			<input type="text" name="sex"/>
+			<?php echo form_error('sex'); ?>
+		</p>      
+		<p>
+			<label for="age">AGE :</label><br/>
+			<input type="text" name="age"/>
+			<?php echo form_error('age'); ?>
+		</p>      
+		<p>
+			<label for="q1">Most craziest thing you have done in your life</label><br/>
+			<textarea name="q1"></textarea>
+			<?php echo form_error('q1'); ?>
+		</p>      
+		<p>
+			<label for="q2">What is more important to you , Success or respect ?</label><br/>
+			<textarea name="q2"></textarea>
+			<?php echo form_error('q2'); ?>
+		</p>      
+<p>
+			<label for="q3">Adventure to me , Means :</label><br/>
+			<textarea name="q3"></textarea>
+			<?php echo form_error('q3'); ?>
+		</p>      
+<p>
+			<label for="q4">First thing you see when you look around</label><br/>
+				<textarea name="q4"></textarea>
+					<?php echo form_error('q4'); ?>
+		</p>      
+<p>
+			<label for="q5">Your role model.... Why?</label><br/>
+			<textarea name="q5"></textarea>
+			<?php echo form_error('q5'); ?>
+		</p>      
+<p>
+			<label for="q6">Why are you here :P ??</label><br/>
+			<textarea name="q6"></textarea>
+			<?php echo form_error('q6'); ?>
+		</p>      
+<p>
+			<label for="q7">Expand SEX :</label><br/>
+			<textarea name="q7"></textarea>
+			<?php echo form_error('q7'); ?>
+		</p>      
+<p>
+			<label for="q8">What is the best thing about you ?</label><br/>
+			<textarea name="q8"></textarea>
+			<?php echo form_error('q8'); ?>
+		</p>      
+<p>
+			<label for="q9">have you ever flirted on Internet ?</label><br/>
+			<textarea name="q9"></textarea>
+			<?php echo form_error('q9'); ?>
+		</p>      
+<p>
+			<label for="q10">What do you like about Indian culture ?</label><br/>
+			<textarea name="q10"></textarea>
+			<?php echo form_error('q10'); ?>
+		</p>      
+		<p>
+			<label for="q11">Tell us why you should not be selected ???</label><br/>
+			<textarea name="q11"></textarea>
+			<?php echo form_error('q11'); ?>
+		</p>      
+
+
+		<p>
+		<input type="submit" value="Submit" />
+		</p>
+	</div>
+	<?php echo form_close(); ?>
+	<br/>
+		
+		</form>
+	</body>
+</html>

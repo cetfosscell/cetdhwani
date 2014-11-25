@@ -1,0 +1,278 @@
+@import url(http://fonts.googleapis.com/css?family=Exo:100,200,300,400,500,700,100italic,600italic);
+@import url(http://fonts.googleapis.com/css?family=Rationale);
+@font-face {
+    font-family: 'GeosansLightRegular';
+    src: url('./font/geosanslight-webfont.eot');
+    src: url('./font/geosanslight-webfont.eot?#iefix') format('eot'),
+         url('./font/geosanslight-webfont.woff') format('woff'),
+         url('./font/geosanslight-webfont.ttf') format('truetype'),
+         url('./font/geosanslight-webfont.svg#webfontY02WmcuR') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Bebas';
+    src: url('./font/BebasNeue.eot');
+    src: url('./font/BebasNeue.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Bebas';
+    src: url('./font/geosanslight-oblique-webfont.eot');
+    src: url('./font/geosanslight-oblique-webfont.eot?#iefix') format('eot'),
+         url('./font/geosanslight-oblique-webfont.woff') format('woff'),
+         url('./font/geosanslight-oblique-webfont.ttf') format('truetype'),
+         url('./font/geosanslight-oblique-webfont.svg#webfontNPsZNH0G') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+
+}
+
+
+@font-face {
+    font-family: 'LigatureSymbols';
+    src: url('../font/LigatureSymbols-2.11.eot');
+    src: url('../font/LigatureSymbols-2.11.eot?#iefix') format('embedded-opentype'),
+         url('../font/LigatureSymbols-2.11.woff') format('woff'),
+         url('../font/LigatureSymbols-2.11.ttf') format('truetype'),
+         url('../font/LigatureSymbols-2.11.svg#LigatureSymbols') format('svg');
+    src: url('../font/LigatureSymbols-2.11.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+	
+}
+
+
+.lsf, .lsf-icon:before {
+	
+	text-align: center;
+  font-family: 'LigatureSymbols';
+  -webkit-text-rendering: optimizeLegibility;
+  -moz-text-rendering: optimizeLegibility;
+  -ms-text-rendering: optimizeLegibility;
+  -o-text-rendering: optimizeLegibility;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -ms-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.lsf-icon:before {
+  content:attr(title);
+  margin-right:0.3em;
+}
+
+.lsf-icon.home:before {
+  content: '\E072';
+  font-size: 56px;
+	color: #000;
+	margin-left: 18px;
+}
+
+.lsf-icon.events:before {
+  content: '\E033';
+  font-size: 56px;
+	color: #000;
+	
+	margin-left: 18px;
+}
+
+.lsf-icon.gallery:before {
+  content: '\E074';
+  font-size: 56px;
+	color: #000;
+
+	margin-left: 18px;
+}
+
+.lsf-icon.calendar:before {
+  content: '\E025';
+  font-size: 56px;
+	color: #000;
+
+	margin-left: 18px;
+}
+.lsf-icon.contact:before {
+  content: '\E100';
+  font-size: 56px;
+	color: #000;
+
+	margin-left: 18px;}
+.lsf-icon.hsp:before {
+  content: '\E05c';
+  font-size: 56px;
+	color: #000;
+
+	margin-left: 18px;}
+.lsf-icon.sponsor:before {
+  content: '\E119';
+  font-size: 56px;
+	color: #000;
+
+	margin-left: 18px;}
+
+
+.lsf-icon.credits:before {
+  content: '\E075';
+  font-size: 45px;
+	color: #fff;
+}
+.lsf-icon.fb:before {
+  content: '\E047';
+  font-size: 56px;
+	color: #fff;
+}
+
+.lsf-icon.twitter:before {
+  content: '\E12f';
+  font-size: 56px;
+	color: #fff;
+}
+
+.lsf-icon.gplus:before {
+  content: '\E05a';
+  font-size: 56px;
+	color: #fff;
+}
+
+.lsf-icon.youtube:before {
+  content: '\E141';
+  font-size: 45px;
+	color: #fff;
+}
+
+.lsf-icon.android:before {
+  content: '\E008';
+  font-size: 46px;
+	color: #fff;
+}
+.lsf-icon.login:before {
+  content: '\E086';
+  font-size: 16px;
+	color: #000;
+}
+
+.lsf-icon.signup:before {
+  content: '\E088';
+  font-size: px;
+	color: #000;
+}	
+.lsf-icon.close:before {
+  content: '\E10f';
+  font-size: 32px;
+	color: #000;
+}
+
+
+	.socialize
+	{
+		position: fixed;
+		bottom:0;
+		right:0;
+		z-index: 100;
+		background: transparent;	
+		padding-top: 10px;
+		padding-left: 55px;
+	}
+	.login
+	{
+		position: fixed;
+		right:5%;
+		z-index: 100;
+		background: #fff;
+		padding: 10px 10px 10px 10px;
+		color: #000;
+		float: right;
+		border-radius: 0 0 5px 5px;
+		font-family: 'Rationale', sans-serif;
+		font-size: 14px;
+		padding-right: 20px; 
+	}
+	.login ul li
+	{
+			padding-left: 10px;
+			display: inline;
+		
+		}
+		
+	.socialize {
+		right: 0;
+	}
+	.socialize ul li{
+			float:left;		
+			margin-left: -10px;
+			margin-right: -2px;
+			padding-left: 6px;
+		}
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700);
+html,
+body{
+height:100%;
+}
+body
+{
+line-height:20px
+}
+p
+{
+}
+div.menu{
+	position: fixed;
+	top: 0;
+	left: 0;
+	text-align: center;
+height:100%;
+width:100px;
+background:#fff;
+z-index:10000;
+    }
+
+div.menu nav a
+{font-family: 'Rationale', sans-serif;
+color:black;
+padding-bottom:2px;
+}
+.menu ul li
+{
+	padding-top: 20%;
+	padding-bottom: 22%;
+	background: #fff;
+   overflow: hidden;
+   position: relative;
+   float:left;
+   background: #fff;
+   width: 100px;
+}
+.menu ul li a
+	{
+		font: '' 12px;
+		text-transform: uppercase;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    display: block;
+    color: #333;
+    position: relative;
+		
+	}
+
+.menu ul li a:hover
+{
+	text-decoration: none;	
+	opacity: 1;	
+}
+#home{text-align:center}
+#home h1{display:inline-block;}#home h1 img{}#home p{font-style:italic}
+#home footer{position:absolute;bottom:0px;background:#191a1e;width:100%;text-align:center}
+#home footer>a{position:absolute;top:-40px;font-size:30px;right:0px;background:#191a1e; border-top-left-radius:5px;-webkit-transition:background-position 0.1s ease-in;-moz-transition:background-position 0.1s ease-in;-o-transition:background-position 0.1s ease-in;-ms-transition:background-position 0.1s ease-in;transition:background-position 0.1s ease-in;color:white;height:40px;line-height:40px;padding:0 10px}
+#home footer>a:hover{background-position:left bottom}
+#home footer ul{background:#191a1e;}
+#home footer ul li{display:inline-block;margin:  10px}#home footer ul li a{font-size:0}@media all and (max-width: 720px) and (min-width: 240px){div.menu{left:-80%;width:80%}div.menu h1{display:none}div.menu #menuButton{position:absolute;top:80px;right:-40px;display:block;width:40px;height:40px;background-size:80px;font-size:0;-webkit-transition:background-position 0.1s ease-in;-moz-transition:background-position 0.1s ease-in;-o-transition:background-position 0.1s ease-in;-ms-transition:background-position 0.1s ease-in;transition:background-position 0.1s ease-in}div.menu #menuButton:hover{background-position:left top}#home h1{width:70%;margin:10px auto}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1)
